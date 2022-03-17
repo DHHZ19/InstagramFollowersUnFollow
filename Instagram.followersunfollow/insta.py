@@ -8,7 +8,7 @@ import time
 
 
 username = 'nailsbycin.dy'
-password = 'Lulu1109!'
+password = ''
 
 def click_button_with_css(driver, css_selector):
     element = WebDriverWait(driver, 20).until(
